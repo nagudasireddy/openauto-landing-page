@@ -1,0 +1,182 @@
+.page{
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: black;
+}
+
+.auto{
+  display: flex;
+  padding: 50px;
+}
+
+.open{
+  font-style: italic;
+  color: white;
+  font-size: 40px;
+  margin-left: 20px;
+  margin-right: 700px;
+}
+.call{
+  width: 23px;
+  height: 23px;
+  margin-top: 46px;
+  margin-right: 5px;
+}
+.number{
+  color: white;
+  font-size: 17px;
+  margin-right: 70px;
+  margin-top: 48px;
+}
+.mail{
+  color: white;
+  font-size: 17px;
+  margin-right: 70px;
+  margin-top: 45px;
+}
+.link{
+  text-decoration: none;
+  color: white;
+}
+
+.btn{
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  font-size: 13px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.comfort{
+  display: flex;
+  width: 100px;
+  margin-left: 40px;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+
+}
+.vehicle{
+  color: white;
+  font-size: 50px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-right: 300px;
+}
+.soothe{
+  color: white;
+  margin-right: 200px;
+}
+.area{
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 30px;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  margin-right: 700px;
+  height: 40px;
+  text-align: center;
+}
+.btn1{
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 30px;
+  margin-top: 11px;
+  margin-bottom: 11px;
+  margin-right: 700px;
+  height: 40px;
+}
+.icon{
+  margin-left: 1500px;
+}
+.fb{
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+.twwiter{
+  width: 30px;
+  height: 30px;
+  margin-bottom: 18px;
+}
+.linkedin{
+  width: 60px;
+  height: 60px;
+  margin-bottom: 6px;
+}
+.youtube{
+  width: 18px;
+  height: 18px;
+  margin-bottom: 25px;
+}
+.insta{
+  width: 20px;
+  height: 20px;
+  margin-bottom: 25px;
+  margin-left: 15px;
+}
+.btn1:hover{
+  background-color: blue;
+}
+.page1{
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(0, 0, 0);
+}
+.service{
+  display: flex;
+  padding: 70px;
+  margin-left: 100px;
+}
+.time{
+  margin-left: 200px;
+  margin-right: 100px;
+}
+.btn3{
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 100px;
+  margin-top: 25px;
+  margin-bottom: 60px;
+  font-size: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.bottomline{
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: rgb(73, 68, 68);
+  border-color: rgb(73, 68, 68);
+}
+.app{
+  font-style: italic;
+  color: white;
+  font-size: 30px;
+  margin-left: 120px;
+  margin-right: 870px;
+
+}
+.auto1{
+  display: flex;
+  padding: 0px;
+}
+.all{
+  color: white;
+  margin-left: 120px;
+  margin-top: -10 px;
+}
+.icon1{
+  margin-left: 1000px;
+  margin-top: -20px;
+}
